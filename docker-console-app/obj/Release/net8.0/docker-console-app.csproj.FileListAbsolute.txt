@@ -1,0 +1,15 @@
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\bin\Release\net8.0\docker-console-app.exe
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\bin\Release\net8.0\docker-console-app.deps.json
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\bin\Release\net8.0\docker-console-app.runtimeconfig.json
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\bin\Release\net8.0\docker-console-app.dll
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\bin\Release\net8.0\docker-console-app.pdb
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.AssemblyInfoInputs.cache
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.AssemblyInfo.cs
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.csproj.CoreCompileInputs.cache
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.sourcelink.json
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.dll
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\refint\docker-console-app.dll
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.pdb
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\docker-console-app.genruntimeconfig.cache
+C:\Users\efeka\Desktop\C#\docker-console-app\docker-console-app\docker-console-app\obj\Release\net8.0\ref\docker-console-app.dll
