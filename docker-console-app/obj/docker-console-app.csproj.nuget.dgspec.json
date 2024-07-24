@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\docker-console-app.csproj": {}
+    "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\docker-console-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\docker-console-app.csproj": {
+    "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\docker-console-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
+        "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
         "projectName": "docker-console-app",
-        "projectPath": "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
+        "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
         "packagesPath": "C:\\Users\\efeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\obj\\",
+        "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -53,6 +53,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

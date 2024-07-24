@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PpOvrKe3nzDLv8TBVGg8WRqRqFhEujcDbU/UuhsW6cdoEzx6OBB13rxxI6zu8xxejj/GFT0PBbmR0vOG9VUlbw==",
+  "dgSpecHash": "BBf4Vs9Zx7jtoswHuhHI6Diac+JC7wcJtDzWhSilHFsMCuFf8mFmMySHkb0oD2wrFH1bxeDuT0ZN6UySB1uQYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efeka\\Desktop\\C#\\docker-console-app\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\efeka\\Documents\\GitHub\\docker-console-app\\docker-console-app\\docker-console-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\efeka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
   "logs": []
 }
